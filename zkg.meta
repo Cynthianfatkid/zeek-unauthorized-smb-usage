@@ -1,0 +1,8 @@
+{
+  "name": "yourgithub/unauthorized-smb-usage",
+  "version": "0.1.0",
+  "description": "Detects unauthorized SMB connections to non-whitelisted IPs",
+  "tags": ["smb", "lateral movement", "network monitoring"],
+  "script_dir": "scripts",
+  "depends": []
+}
